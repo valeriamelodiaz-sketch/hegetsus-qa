@@ -1,0 +1,23 @@
+{
+  "name": "hegetsus-qa",
+  "version": "1.0.0",
+  "description": "QA Automation suite for https://dev-site.hegetsus.com — Technical Assessment",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright show-report",
+    "test:bug01": "playwright test bug01",
+    "test:bug02": "playwright test bug02",
+    "test:bug03": "playwright test bug03",
+    "test:bug04": "playwright test bug04",
+    "test:bug05": "playwright test bug05",
+    "test:bug06": "playwright test bug06",
+    "test:all-bugs": "playwright test --reporter=html"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^25.9.1",
+    "dotenv": "^16.4.0",
+    "typescript": "^5.4.0"
+  }
+}
