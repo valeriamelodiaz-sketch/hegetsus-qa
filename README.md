@@ -55,7 +55,7 @@ La suite cuenta con un total de **20 pruebas automatizadas** diseñadas bajo est
 
 ---
 
-## 📂 Documentación del Proyecto (100% en Español)
+## 📂 Documentación del Proyecto
 
 Hemos estructurado la documentación técnica detallada en español para que los desarrolladores y el equipo de producto puedan entender los defectos y replicar el proceso de automatización:
 
